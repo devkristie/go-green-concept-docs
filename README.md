@@ -1,10 +1,6 @@
 # Go Green Concept Ltd Website Documentation
 
----
-
 This repository contains internal documentation for the Go Green Concept Ltd website, an environmental and sustainability-focused organisation dedicated to building a plastic-free society.
-
----
 
 ## Overview
 
@@ -14,8 +10,6 @@ This repository contains internal documentation for the Go Green Concept Ltd web
 - **SEO:** Titles, meta descriptions, and focus keyphrases configured per page using Yoast SEO plugin.
 - **Page & Template Maintenance:** Reorganised page and template structures to improve consistency and long-term maintainability.
 
----
-
 ## Technologies & Permissions
 
 - **User Role:** Admin access
@@ -23,8 +17,6 @@ This repository contains internal documentation for the Go Green Concept Ltd web
 - **Installed Plugins:** Duplicate Page, Public Post Preview, HappyAddons, Prime Slider, Yoast SEO, EWWW Image Optimizer, Updraft Plus
 - **Legal Notes:** All content, branding, and customizations belong to **_Go Green Concept Ltd_**. WordPress core, themes, and plugin code remain the property of their respective developers.
 - No proprietary content (full page content, images, plugin code) should be shared publicly without explicit permission. Only documentation, notes, and non-proprietary code snippets may be referenced outside the company.
-
----
 
 ## Pages
 
@@ -37,21 +29,15 @@ This repository contains internal documentation for the Go Green Concept Ltd web
 - Privacy Policy
 - Accessibility Statement
 
----
-
 ## Notes
 
 - SEO keyphrases are configured per page. Yoast SEO status (green/orange) depends on content and keyphrase match.
-
----
 
 ## Additional CSS
 
 All custom styling edits were made via Appearance → Customize → Additional CSS in WordPress.
 
 Additional CSS adjustments were made for mobile optimization, particularly the Home Page hero section H1 title.
-
----
 
 ## Theme Information
 
@@ -63,16 +49,12 @@ Additional CSS adjustments were made for mobile optimization, particularly the H
 
 - **Notes:** Fast, fully customizable & beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight and offers unparalleled speed. Auto-updates disabled.
 
----
-
 ## SEO Improvements Implemented
 
 - Standardised SEO title structure across all core pages.
 - Configured unique focus keyphrases aligned with search intent.
 - Optimised meta descriptions for clarity and click-through potential.
 - Improved keyword consistency across headings and content.
-
----
 
 ## Plugins Used
 
@@ -95,8 +77,6 @@ Additional CSS adjustments were made for mobile optimization, particularly the H
 **Ultimate Addons** for Elementor (UAE) – Adds additional Elementor widgets, including the Header & Footer Builder used for the site footer. Pre-installed on the site.
 
 **SureForms** – handles the contact form on the Contact page. Pre-installed on the site.
-
----
 
 ## Design Implementation
 
@@ -158,8 +138,6 @@ The website footer is managed using the Header & Footer Builder from the Ultimat
 
 > **Note:** Both header and footer are global Elementor templates, ensuring consistent branding and navigation across the site.
 
----
-
 ## Editing the Website
 
 Pages are built using Elementor.
@@ -171,8 +149,6 @@ Pages are built using Elementor.
 - Click "Edit with Elementor"
 
 Hero images, text sections, and layouts are managed within Elementor containers.
-
----
 
 ## Contact Form
 
@@ -191,8 +167,6 @@ Implemented a GDPR-compliant consent checkbox on the contact form using SureForm
   - Select the form you wish to edit
   - Select Form Settings
   - Select Custom CSS
-
----
 
 ## Images
 
@@ -242,13 +216,9 @@ If updated or alternative product images become available in the future, they ca
 > Product slider on the "Our Services" page
 > Product images on the "Our Products" page
 
----
-
 ## Video
 
 Included 1 YouTube video provided by the client on the “Our Services” page under the “Turning Food Waste Into Energy” section.
-
----
 
 ## Website Migration
 
@@ -294,8 +264,6 @@ Email configuration (MX and related DNS records) was updated to support SiteGrou
 Website hosting is now fully managed on SiteGround, while email services remain on SpaceMail.
 
 DNS configuration separates website and email services correctly.
-
----
 
 ## Issues & Observations During Implementation
 
@@ -352,7 +320,5 @@ Applied CSS Example:
 > **Note:**
 > Only affects this form.
 > No additional plugins or theme edits were required.
-
----
 
 This repository is for **internal documentation and project tracking purposes only**.
